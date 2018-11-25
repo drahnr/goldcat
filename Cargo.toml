@@ -1,0 +1,10 @@
+[package]
+name = "goldcat"
+version = "0.0.0"
+authors = ["Bernhard Schuster <bernhard@ahoi.io>"]
+license = "MIT OR Apache-2.0"
+description = "yet to be published product"
+repository = "https://github.com/drahnr/goldcat"
+homepage = "https://ahoi.io"
+
+[dependencies]
